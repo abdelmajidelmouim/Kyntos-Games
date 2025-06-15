@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Game 1",
+    "image": "https://via.placeholder.com/300x140.png?text=Game+1",
+    "url": "https://itch.io/embed/100001?linkback=true",
+    "category": "puzzle"
+  },
+  {
+    "title": "Game 2",
+    "image": "https://via.placeholder.com/300x140.png?text=Game+2",
+    "url": "https://itch.io/embed/100002?linkback=true",
+    "category": "action"
+  },
+  {
+    "title": "Game 3",
+    "image": "https://via.placeholder.com/300x140.png?text=Game+3",
+    "url": "https://itch.io/embed/100003?linkback=true",
+    "category": "puzzle"
+  },
+  {
+    "title": "Game 4",
+    "image": "https://via.placeholder.com/300x140.png?text=Game+4",
+    "url": "https://itch.io/embed/100004?linkback=true",
+    "category": "action"
+  },
+  {
+    "title": "Game 5",
+    "image": "https://via.placeholder.com/300x140.png?text=Game+5",
+    "url": "https://itch.io/embed/100005?linkback=true",
+    "category": "puzzle"
+  },
+  {
+    "title": "Game 6",
+    "image": "https://via.placeholder.com/300x140.png?text=Game+6",
+    "url": "https://itch.io/embed/100006?linkback=true",
+    "category": "action"
+  },
+  {
+    "title": "Game 7",
+    "image": "https://via.placeholder.com/300x140.png?text=Game+7",
+    "url": "https://itch.io/embed/100007?linkback=true",
+    "category": "puzzle"
+  },
+  {
+    "title": "Game 8",
+    "image": "https://via.placeholder.com/300x140.png?text=Game+8",
+    "url": "https://itch.io/embed/100008?linkback=true",
+    "category": "action"
+  },
+  {
+    "title": "Game 9",
+    "image": "https://via.placeholder.com/300x140.png?text=Game+9",
+    "url": "https://itch.io/embed/100009?linkback=true",
+    "category": "puzzle"
+  },
+  {
+    "title": "Game 10",
+    "image": "https://via.placeholder.com/300x140.png?text=Game+10",
+    "url": "https://itch.io/embed/1000010?linkback=true",
+    "category": "action"
+  },
+  {
+    "title": "Game 11",
+    "image": "https://via.placeholder.com/300x140.png?text=Game+11",
+    "url": "https://itch.io/embed/1000011?linkback=true",
+    "category": "puzzle"
+  },
+  {
+    "title": "Game 12",
+    "image": "https://via.placeholder.com/300x140.png?text=Game+12",
+    "url": "https://itch.io/embed/1000012?linkback=true",
+    "category": "action"
+  },
+  {
+    "title": "Game 13",
+    "image": "https://via.placeholder.com/300x140.png?text=Game+13",
+    "url": "https://itch.io/embed/1000013?linkback=true",
+    "category": "puzzle"
+  },
+  {
+    "title": "Game 14",
+    "image": "https://via.placeholder.com/300x140.png?text=Game+14",
+    "url": "https://itch.io/embed/1000014?linkback=true",
+    "category": "action"
+  },
+  {
+    "title": "Game 15",
+    "image": "https://via.placeholder.com/300x140.png?text=Game+15",
+    "url": "https://itch.io/embed/1000015?linkback=true",
+    "category": "puzzle"
+  },
+  {
+    "title": "Game 16",
+    "image": "https://via.placeholder.com/300x140.png?text=Game+16",
+    "url": "https://itch.io/embed/1000016?linkback=true",
+    "category": "action"
+  },
+  {
+    "title": "Game 17",
+    "image": "https://via.placeholder.com/300x140.png?text=Game+17",
+    "url": "https://itch.io/embed/1000017?linkback=true",
+    "category": "puzzle"
+  },
+  {
+    "title": "Game 18",
+    "image": "https://via.placeholder.com/300x140.png?text=Game+18",
+    "url": "https://itch.io/embed/1000018?linkback=true",
+    "category": "action"
+  },
+  {
+    "title": "Game 19",
+    "image": "https://via.placeholder.com/300x140.png?text=Game+19",
+    "url": "https://itch.io/embed/1000019?linkback=true",
+    "category": "puzzle"
+  },
+  {
+    "title": "Game 20",
+    "image": "https://via.placeholder.com/300x140.png?text=Game+20",
+    "url": "https://itch.io/embed/1000020?linkback=true",
+    "category": "action"
+  }
+]
