@@ -1,21 +1,21 @@
 [
   {
-    "title": "Game 1",
-    "image": "https://via.placeholder.com/300x140.png?text=Game+1",
-    "url": "https://itch.io/embed/100001?linkback=true",
+    "title": "Solitaire",
+    "image": "https://cloud.onlinegames.io/games/2025/html/solitaire/index-og.html",
+    "url": "https://www.onlinegames.io/media/posts/1007/responsive/solitaire-lg.jpg",
     "category": "puzzle"
   },
   {
-    "title": "Game 2",
-    "image": "https://via.placeholder.com/300x140.png?text=Game+2",
-    "url": "https://itch.io/embed/100002?linkback=true",
-    "category": "action"
+    "title": "Kick the Pirate",
+    "image": "https://www.onlinegames.io/media/posts/1012/responsive/Kick-The-Pirate-lg.jpg",
+    "url": "https://cloud.onlinegames.io/games/2022/construct/92/kick-the-pirate/index-og.html",
+    "category": " Destroy"
   },
   {
-    "title": "Game 3",
-    "image": "https://via.placeholder.com/300x140.png?text=Game+3",
-    "url": "https://itch.io/embed/100003?linkback=true",
-    "category": "puzzle"
+    "title": "Julie Beauty Salon",
+    "image": "https://www.onlinegames.io/media/posts/1011/responsive/Julie-Beauty-Salon-lg.jpg",
+    "url": "https://cloud.onlinegames.io/games/2021/1/julie-beauty-salon/index-og.html",
+    "category": " Makeup"
   },
   {
     "title": "Game 4",
